@@ -1,0 +1,34 @@
+{
+  "AllowedAddresses": [
+    "0.0.0.0"
+  ],
+  "PoolList": [
+    {
+      "address": "eu-ru01.miningrigrentals.com",
+      "port": 3344,
+      "ssl": false,
+      "node": false,
+      "ratio": 100,
+      "wallet": "",
+      "password": ""
+    }
+  ],
+  "Protocol": "ETHPROXY",
+  "ProxyPort": 3333,
+  "ProxyCert": "",
+  "Coin": "ETHASH",
+  "Wallet": "artem-1632.302252",
+  "Worker": "artem-1632.302252",
+  "Password": "123",
+  "RatioWindowTimeHours": 24,
+  "PrintStats": true,
+  "StatsIntervalSeconds": 60,
+  "PrintJobs": true,
+  "NodeGetWorkIntervalMs": 500,
+  "AllowDuplicateWorkerNames": true,
+  "SendStaleShares": true,
+  "ExtranonceSubscription": false,
+  "ForceWorkersReconnect": true,
+  "MinerAgent": "Ethstratum-minerV1"
+}
+
