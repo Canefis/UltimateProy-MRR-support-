@@ -38,6 +38,8 @@ Some users find it useful for:
 - Mining on different wallets for splitting rewards in case of sharing rig/farm
 - Control workers using different OS at a single place
 - Mining farm with a poor internet connection
+- Miningrigrentals.com fully compatible + Jasminer/Ipollo asics
+  
 
 # Supported coins and algorithms
 _If your favorite coin is not listed use one of the algo name (will not work for SmartSwitch and coin name should always be used if available), or come ask about it on discord_
@@ -48,7 +50,7 @@ _If your favorite coin is not listed use one of the algo name (will not work for
 - **Equihash192**: YEC, ZCL, ZER
 - **Equihash**: ARR, HUSH, KMD, ZEC, ZEN
 - **Etchash**: ETC
-- **Ethash**: BTN, CAU, CLO, ETHW, EXP, OCTA, QKC, UBQ
+- **Ethash**: BTN, CAU, CLO, ETHW, EXP, OCTA, QKC, UBQ, DOGETHER
 - **Firopow**: FIRO
 - **Kawpow**: CLORE, RVN, MEWC, NEOX
 - **kHeavyHash**: KAS
