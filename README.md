@@ -1,4 +1,4 @@
-# Ultimate Proxy
+# Ultimate Proxy 2.3.1.7 pre-release version
 
 [![Downloads](https://img.shields.io/github/downloads/romslf/ultimate-proxy/total?style=for-the-badge)](https://github.com/romslf/Ultimate-Proxy/releases)
 [![Discord](https://img.shields.io/discord/754356608158531604?logo=discord&style=for-the-badge&logoColor=white)](https://discord.gg/zWsTZXBYYq)
