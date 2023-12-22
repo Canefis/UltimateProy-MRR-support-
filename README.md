@@ -38,7 +38,7 @@ Some users find it useful for:
 - Mining on different wallets for splitting rewards in case of sharing rig/farm
 - Control workers using different OS at a single place
 - Mining farm with a poor internet connection
-- Miningrigrentals.com fully compatible + Jasminer/Ipollo asics
+- Miningrigrentals.com is fully compatible + Jasminer/Ipollo asics
   
 
 # Supported coins and algorithms
